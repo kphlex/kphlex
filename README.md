@@ -13,4 +13,4 @@
 
 - Other Stuff:
  
- <img src="https://user-images.githubusercontent.com/120676188/216800688-da394163-68ae-4eff-aa65-6cc9e105626f.svg" width="75" height="75"> <img src="https://user-images.githubusercontent.com/120676188/216800862-c6d8e4d5-c0f9-4cec-8e9f-1e1e5492e76a.svg" width="75" height="75">
+ <img src="https://user-images.githubusercontent.com/120676188/216800688-da394163-68ae-4eff-aa65-6cc9e105626f.svg" width="75" height="75"> <img src="https://user-images.githubusercontent.com/120676188/216800862-c6d8e4d5-c0f9-4cec-8e9f-1e1e5492e76a.svg" width="100" height="100"> 
